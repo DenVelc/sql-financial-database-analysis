@@ -53,5 +53,5 @@ The project explores:
 
 ## Files
 
-- `SQL Final project CodersLab.sql` – Complete SQL script
+- `financial-database.sql` – Complete SQL script
 - `SQL Final project for CodersLab.pdf` – Project report
