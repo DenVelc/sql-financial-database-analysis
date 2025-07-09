@@ -51,7 +51,6 @@ The project explores:
 - Stored procedures with conditional table logic
 - Robust joins and aggregation
 
-## Files
+## File
 
 - `financial-database.sql` – Complete SQL script
-- `SQL Final project for CodersLab.pdf` – Project report
